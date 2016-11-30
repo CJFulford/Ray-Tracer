@@ -11,11 +11,8 @@ Does not use a standard input because this code was originally created for a uni
 Currently only runs on the CPU
 
 CPU multithreading: YES, via openmp
-
 GPU use: NONE
-
 Bounding boxes: NONE
-
 Supported input files: NONE
 
 To run this code you will need libraries for Glad, GLFW, GLM, glcorearb, and openmp
