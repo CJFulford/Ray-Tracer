@@ -14,8 +14,8 @@
 using namespace std;
 using namespace glm;
 
-const int WINDOW_WIDTH = 500;
-const int WINDOW_HEIGHT = 500;
+const int WINDOW_WIDTH = 1000;
+const int WINDOW_HEIGHT = 1000;
 const float HALF_WIDTH = WINDOW_WIDTH / 2.f;
 const float HALF_HEIGHT = WINDOW_HEIGHT / 2.f;
 const float ratio = WINDOW_WIDTH / WINDOW_HEIGHT;

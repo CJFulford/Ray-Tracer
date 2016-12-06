@@ -113,11 +113,9 @@ int main(
 			time_t endTime = time(NULL);
 			cout << difftime(endTime, startTime) << " seconds"<< endl;
 			oldScene = scene;
-			/*
 			if (scene == 1) imageBuffer.SaveToFile("scene1.png");
 			else if (scene == 2) imageBuffer.SaveToFile("scene2.png");
 			else if (scene == 3) imageBuffer.SaveToFile("scene3.png");
-			*/
 		}
 
 		// sleep until next event before drawing again
