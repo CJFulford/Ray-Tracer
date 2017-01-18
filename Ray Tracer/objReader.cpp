@@ -39,8 +39,7 @@ void readFromObj(
 					break;
 			}
 
-
-			/*
+			if (line.compare(0, string::npos, "light {") == 0)
 			{
 				MyLight light;
 				getline(file, line);
@@ -137,7 +136,6 @@ void readFromObj(
 
 				triangleVec.push_back(tri);
 			}
-			*/
 		}
 	}
 	else cout << "didnt open" << endl;

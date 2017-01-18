@@ -4,7 +4,7 @@
 void QueryGLVersion();
 bool CheckGLErrors();
 
-int scene = 1;
+int scene = 3;
 
 void KeyCallback(
 	GLFWwindow* window, 
