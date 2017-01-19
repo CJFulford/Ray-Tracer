@@ -17,7 +17,7 @@
 //#define USING_LINUX
 
 #include <string>
-#include <glm.hpp>
+#include <glm\glm.hpp>
 #include <vector>
 #ifdef USING_WINDOWS
 #include <glad\glad.h> 

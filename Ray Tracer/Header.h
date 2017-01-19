@@ -8,7 +8,7 @@
 
 #include <glad\glad.h>
 #include <glcorearb.h>
-#include <glm.hpp>
+#include <glm\glm.hpp>
 #include <omp.h>
 
 using namespace std;
